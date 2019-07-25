@@ -32,3 +32,7 @@ Puedes participar en el demo day:
     
  - Grupo en Facebook
     https://www.facebook.com/groups/hackerdome/
+
+###### Si tienes dudas o consultas
+
+ - Registra un issue usando el label de question
