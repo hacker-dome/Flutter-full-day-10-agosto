@@ -1,4 +1,4 @@
-# Hacker Dome | Flull-day-10-agosto
+# Hacker Dome | Flutter flull day de 10 agosto
 Encontraras toda la informacion acerca del Meetup de este 10 de Agosto.
 
 ## Participa del primer Meetup de HACKER DOME
